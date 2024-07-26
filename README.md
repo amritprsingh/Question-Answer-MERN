@@ -31,6 +31,15 @@ Welcome to my Question Answer Project using MERN
 - Admin can see all users on site
 - Admin can delete any user or any of their information (questions, answers, etc.) as needed
 
+## Skills Used
+- React for client side
+- MongoDB to store questions, answers, tags, and user profiles
+- ExpressJS for server side
+- NodeJS for development
+- CORS for middleware
+- BCrypt for password hashing
+- Cookie-Parser for cookies maintainence
+
 ## Run the Code
 - Open a terminal and run: "mongod". Then open another terminal and pull the project code. 
 - Once project has been cloned and in the project directory, to set up the database run command of the form:
